@@ -4,8 +4,6 @@ Instituição: UNIVERSIDADE PRESBITERIANA MACKENZIE
 Aluno: GUSTAVO JOSÉ FERMIANO
 RA: 10440929
 
-INTRODUÇÃO:
-
 Anualmente, são gastos mais de R$ 1 bilhão de reais em pagamentos de diárias e passagens para atender servidores do quadro das instituições da Administração Direta e Indireta do Governo Federal. 
 
 As diárias são valores pagos a servidores públicos para cobrir despesas relacionadas à alimentação, hospedagem e outras despesas de pequeno vulto, quando os servidores precisam atuar fora de suas sedes de trabalho. 
