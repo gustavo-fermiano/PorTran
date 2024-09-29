@@ -4,7 +4,9 @@
 ## Identificação do projeto
 Instituição: Universidade Presbiteriana Mackenzie
 
-Aluno: Gustavo J. Fermiano
+Aluno: Gustavo J. Fermiano 
+
+Turma: Ciência de Dados - 2º Semestre/2024
 
 RA: 10440929
 
@@ -38,3 +40,11 @@ Através da análise exploratória dos dados disponíveis no Portal da Transpar�
 - Identificar destinos mais frequentes das viagens a serviço.
 
 - Identificar a evolução destes pagamentos ao longo do ano de 2023, verificando fatores de sazonalidade ou contenção de recursos.
+
+## Análise Exploratória de Dados
+
+A etapa de Análise Exploratória de Dados foi realizada dentro do ambiente do Google Colab, usando a linguagem Python. Foram importadas as bibliotecas Pandas e Matplotlib. Os dados produzidos foram armazenados no Github no link: https://github.com/gustavo-fermiano/portran, incluindo os scripts utilizados na análise. Devido ao tamanho da base de dados disponível (acima de 400 mb), o arquivo foi subido no Google Drive e importado diretamente para a plataforma do Google Colab.
+
+A base de dados disponível contém 827.433 entradas, e inicialmente contava com 22 atributos. Foram gerados atributos adicionais dentro do ambiente Python, a partir da combinação de alguns atributos originais do dataset.
+
+Os scripts podem ser acessados pelo link: https://github.com/gustavo-fermiano/PorTran/blob/main/scripts/Projeto_Aplicado_I_Etapa_2_Python.ipynb
