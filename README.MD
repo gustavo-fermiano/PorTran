@@ -36,4 +36,5 @@ Através da análise exploratória dos dados disponíveis no Portal da Transpar�
 - Identificar a dispersão dos pagamentos (média, mediana, desvio padrão), mapeando a distribuição da aplicação desses recursos por faixas de pagamento
 
 - Identificar destinos mais frequentes das viagens a serviço.
-	- Identificar a evolução destes pagamentos ao longo do ano de 2023, verificando fatores de sazonalidade ou contenção de recursos.
+
+- Identificar a evolução destes pagamentos ao longo do ano de 2023, verificando fatores de sazonalidade ou contenção de recursos.
