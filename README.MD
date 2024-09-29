@@ -1,9 +1,11 @@
 # Projeto Aplicado I - Análise dos Registros Públicos de Pagamentos de Diárias e Passagens em Viagens Realizadas a Serviço, dentro da Administração Pública Federal, em 2023.
 
-Instituição: UNIVERSIDADE PRESBITERIANA MACKENZIE
-Aluno: GUSTAVO JOSÉ FERMIANO
+# Informações do Projeto:
+Instituição: Universidade Presbiteriana Mackenzie 
+Aluno: Gustavo J. Fermiano
 RA: 10440929
 
+# Introdução
 Anualmente, são gastos mais de R$ 1 bilhão de reais em pagamentos de diárias e passagens para atender servidores do quadro das instituições da Administração Direta e Indireta do Governo Federal. 
 
 As diárias são valores pagos a servidores públicos para cobrir despesas relacionadas à alimentação, hospedagem e outras despesas de pequeno vulto, quando os servidores precisam atuar fora de suas sedes de trabalho. 
