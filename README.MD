@@ -47,4 +47,4 @@ A etapa de Análise Exploratória de Dados foi realizada dentro do ambiente do G
 
 A base de dados disponível contém 827.433 entradas, e inicialmente contava com 22 atributos. Foram gerados atributos adicionais dentro do ambiente Python, a partir da combinação de alguns atributos originais do dataset.
 
-Os scripts podem ser acessados pelo link: https://github.com/gustavo-fermiano/PorTran/blob/main/scripts/Projeto_Aplicado_I_Etapa_2_Python.ipynb
+Os scripts podem ser acessados pelo link: https://github.com/gustavo-fermiano/PorTran/blob/main/scripts/Projeto_Aplicado_I_Etapa_2_e_Etapa_3_Python.ipynb
