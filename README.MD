@@ -52,3 +52,7 @@ Os scripts podem ser acessados pelo link: https://github.com/gustavo-fermiano/Po
 ## Documento Principal do Projeto
 
 Disponível em: https://github.com/gustavo-fermiano/PorTran/tree/main/docs
+
+## Vídeo de Apresentação
+
+Disponível em: https://www.youtube.com/watch?v=2LZvjY6Aer4
